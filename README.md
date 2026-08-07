@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there (^_^)/
 
 <!--
 **KreimerJ/Kreimerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning programming in python
+-  😄 Pronouns: He/him
+
+## Certificates
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b37e38be-265f-4e66-a313-582aa4d41626.jpeg?v=1774142193)](https://www.boot.dev/certificates/b37e38be-265f-4e66-a313-582aa4d41626)
+
